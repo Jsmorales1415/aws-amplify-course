@@ -10,6 +10,14 @@
       "StackName": "amplify-awsamplifycourse-dev-195708",
       "StackId": "arn:aws:cloudformation:us-east-1:391877189845:stack/amplify-awsamplifycourse-dev-195708/cd4aad40-7437-11ed-a7b0-0eaeb5c5a2a3",
       "AmplifyAppId": "d47mkeifxyliq"
+    },
+    "categories": {
+      "auth": {
+        "awsamplifycoursedd9889b1": {}
+      },
+      "api": {
+        "awsamplifycourse": {}
+      }
     }
   }
 }
